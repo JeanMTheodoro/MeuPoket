@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuPocket</string>
+    <string name="editetx_name_site">Nome do Site</string>
+    <string name="editetx_url">Example: www.google.com</string>
+
+    <string name="key_site_db">SITES</string>
+    <string name="tag">SITES</string>
+    <string name="erro_recupera_lista">Erro ao recuperar sites cadastrados</string>
+    <string name="button_ok">cadastrar</string>
+</resources>
